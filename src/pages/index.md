@@ -4,7 +4,7 @@ sections:
   - component: HeroBlock
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      one to three sentences, but can be changed as you prefer. **Ok Stackbit**
     section_id: hero
     type: heroblock
   - actions:
@@ -29,7 +29,7 @@ sections:
     type: postsblock
 menus:
   main:
-    title: Home
+    title: Gert's Home
     weight: 1
 template: home
 ---
